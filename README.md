@@ -42,25 +42,54 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h2 align="center">🏆 CERTIFICATIONS &amp; CREDENTIALS</h2>
+
+<h2 align="center">🏆 CERTIFICATIONS</h2>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">
-    <img src="./assets/credly/data-analystics.png" width="150" alt="Data Analytics Essentials" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">
-    <img src="./assets/credly/networking-basics.png" width="150" alt="Networking Basics" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">
-    <img src="./assets/credly/network-support-security.png" width="150" alt="Network Support and Security" />
-  </a>
+  <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">
+        <img src="./assets/credly/data-analytics.png" width="130" alt="Data Analytics Essentials" />
+      </a>
+      <br />
+      <strong>Data Analytics Essentials</strong>
+      <br />
+      <sub>Credencial verificada</sub>
+      <br />
+      <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">Ver credencial ↗</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">
+        <img src="./assets/credly/networking-basics.png" width="130" alt="Networking Basics" />
+      </a>
+      <br />
+      <strong>Networking Basics</strong>
+      <br />
+      <sub>Credencial verificada</sub>
+      <br />
+      <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">Ver credencial ↗</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">
+        <img src="./assets/credly/network-support-security.png" width="130" alt="Network Support and Security" />
+      </a>
+      <br />
+      <strong>Network Support and Security</strong>
+      <br />
+      <sub>Credencial verificada</sub>
+      <br />
+      <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">Ver credencial ↗</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.credly.com/users/maximo-sanchez-fernandez/badges/credly">
-    <img src="https://img.shields.io/badge/VIEW_ALL_CREDENTIALS-111111?style=for-the-badge&logo=credly&logoColor=00FF41" alt="View all credentials on Credly" />
+    <img src="https://img.shields.io/badge/VIEW_ALL_BADGES-111111?style=for-the-badge&logo=credly&logoColor=00FF41" alt="View all badges" />
   </a>
 </p>
 
