@@ -155,12 +155,12 @@ Programming exercises and projects developed while learning.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Msanfer1403&show_icons=true&hide_border=true&theme=github_dark&title_color=54C1F7&icon_color=54C1F7&text_color=54C1F7"
+    src="https://github-readme-stats.vercel.app/api?username=Msanfer1403&show_icons=true&hide_border=true&theme=github_dark&title_color=54C1F7&icon_color=54C1F7&text_color=FFFFFF"
     alt="GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msanfer1403&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=54C1F7&text_color=54C1F7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msanfer1403&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=54C1F7&text_color=FFFFFF"
     alt="Most used programming languages"
   />
 </p>
