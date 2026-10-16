@@ -42,6 +42,30 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+
+<h2 align="center">🏆 CERTIFICATIONS &amp; CREDENTIALS</h2>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">
+    <img src="https://images.credly.com/size/220x220/images/cc17a582-09b8-44a5-aa95-43bfc1656427/image.png" width="150" alt="Credly certification 1" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">
+    <img src="https://images.credly.com/size/220x220/images/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/image.png" width="150" alt="Credly certification 2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">
+    <img src="https://images.credly.com/size/220x220/images/a5c5301a-b625-4112-a088-adeee7b9d22c/image.png" width="150" alt="Credly certification 3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/maximo-sanchez-fernandez/badges/credly">
+    <img src="https://img.shields.io/badge/VIEW_ALL_CREDENTIALS-111111?style=for-the-badge&logo=credly&logoColor=00FF41" alt="View all credentials on Credly" />
+  </a>
+</p>
+
+
 ## `whoami`
 
 💻 Student of **Administración de Sistemas Informáticos en Red (ASIR)**.
