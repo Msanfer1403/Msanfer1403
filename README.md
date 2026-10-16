@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
 
-<h3>`🐧 Systems & Tools`</h3>
+## `🐧 Systems & Tools`
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
