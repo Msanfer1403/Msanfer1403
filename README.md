@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">
-    <img src="./assets/credly/data-analytics.png" width="150" alt="Data Analytics Essentials" />
+    <img src="./assets/credly/data-analystics.png" width="150" alt="Data Analytics Essentials" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">
@@ -55,12 +55,6 @@
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">
     <img src="./assets/credly/network-support-security.png" width="150" alt="Network Support and Security" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/users/maximo-sanchez-fernandez/badges/credly">
-    <img src="https://img.shields.io/badge/VERIFY_ALL_CREDENTIALS-111111?style=for-the-badge&logo=credly&logoColor=00FF41" alt="Verify credentials on Credly" />
   </a>
 </p>
 
