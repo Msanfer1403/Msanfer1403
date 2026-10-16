@@ -1,12 +1,46 @@
-# 👾 Hello, I'm an ASIR Student
+# 👋 Hello, I'm an ASIR Student
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,100:00ff88&text=SYSTEM%20ONLINE&fontColor=00ff88&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" alt="System online banner"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050505,100:00ff88&text=MSANFER1403&fontColor=00ff88&fontSize=42&fontAlignY=50&animation=fadeIn"
+    width="100%"
+    alt="MSANFER1403 - Cybersecurity"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
----
+<h3>💻 Languages & Scripting</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+<h3>🐧 Systems & Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<h3>🌐 Networking & Cybersecurity</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Networking-00AEEF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ## `whoami`
 
@@ -17,12 +51,6 @@
 🛠️ I enjoy building projects, experimenting with systems and learning through hands-on practice.
 
 🎯 My goal is to develop my skills in system administration and cybersecurity.
-
-## `tech_stack`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,html,css,git,github,vscode,docker&theme=dark" alt="Technologies"/>
-</p>
 
 ## `featured_projects`
 
@@ -41,6 +69,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Msanfer1403&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
 </p>
 
 ---
