@@ -155,20 +155,22 @@ Programming exercises and projects developed while learning.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Msanfer1403&show_icons=true&hide_border=true&theme=github_dark&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=Msanfer1403&show_icons=true&hide_border=true&theme=github_dark&title_color=050505&icon_color=3FB950&text_color=050505"
     alt="GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msanfer1403&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=3FB950&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msanfer1403&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=050505&text_color=050505"
     alt="Most used programming languages"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=51CEFC&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Msanfer1403&color=050505&style=flat-square&label=PROFILE%20VIEWS"
+    alt="Profile views"
+  />
 </p>
-
 ---
 
 <p align="center">
