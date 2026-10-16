@@ -1,4 +1,4 @@
-# 👋 Hello, I'm an ASIR Student
+# Hi! 👋
 
 <p align="center">
   <img
@@ -183,8 +183,5 @@ Programming exercises and projects developed while learning.
 <p align="center">
   <a href="mailto:maximo.sf.2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
