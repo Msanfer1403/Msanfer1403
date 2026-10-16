@@ -2,14 +2,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050505,100:00ff88&text=MSANFER1403&fontColor=00ff88&fontSize=42&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050505,100:00ff88&text=MSANFER1403&fontColor=FFFFFF&fontSize=42&fontAlignY=50&animation=fadeIn"
     width="100%"
     alt="MSANFER1403 - Cybersecurity"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
 <h3>💻 Languages & Scripting</h3>
@@ -63,16 +63,16 @@
 ## `github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Msanfer1403&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msanfer1403&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Msanfer1403&show_icons=true&theme=github_dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msanfer1403&layout=compact&theme=github_dark&hide_border=true&title_color=FFFFFF" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Msanfer1403&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Msanfer1403&theme=dark&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=FFFFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
 </p>
 
 ---
