@@ -2,14 +2,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050505,100:#51CEFC&text=MSANFER1403&fontColor=#51CEFC&fontSize=42&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050505,100:51CEFC&text=MSANFER1403&fontColor=51CEFC&fontSize=42&fontAlignY=50&animation=fadeIn"
     width="100%"
     alt="MSANFER1403 - Cybersecurity"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=#51CEFC&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=51CEFC&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
 <h3>💻 Languages & Scripting</h3>
@@ -119,11 +119,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Msanfer1403&theme=dark&hide_border=true&ring=#51CEFC&fire=#51CEFC&currStreakLabel=#51CEFC" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Msanfer1403&theme=dark&hide_border=true&ring=51CEFC&fire=51CEFC&currStreakLabel=51CEFC" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=#51CEFC&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=51CEFC&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
 </p>
 
 ---
