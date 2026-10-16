@@ -49,6 +49,9 @@
   <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
 </p>
 
+
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -58,7 +61,7 @@
       <br />
       <strong>Data Analytics Essentials</strong>
       <br />
-      <sub>Credencial verificada</sub>
+      <sub>Credencial verificada ✅​</sub>
       <br />
       <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">Ver credencial ↗</a>
     </td>
@@ -69,7 +72,7 @@
       <br />
       <strong>Networking Basics</strong>
       <br />
-      <sub>Credencial verificada</sub>
+      <sub>Credencial verificada ✅​</sub>
       <br />
       <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">Ver credencial ↗</a>
     </td>
@@ -80,12 +83,15 @@
       <br />
       <strong>Network Support and Security</strong>
       <br />
-      <sub>Credencial verificada</sub>
+      <sub>Credencial verificada ✅​</sub>
       <br />
       <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">Ver credencial ↗</a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ## `whoami`
 
