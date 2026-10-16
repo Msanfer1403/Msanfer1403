@@ -126,6 +126,23 @@
   <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=00FF88&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
 </p>
 
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Msanfer1403/Msanfer1403/output/github-snake-dark.svg"
+    alt="Neon green GitHub contribution snake"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/SYSTEM-CONTRIBUTIONS_TRACKING-00FF41?style=for-the-badge&labelColor=0d1117"
+    alt="Contributions tracking"
+  />
+</p>
+
 ---
 
 <p align="center">
