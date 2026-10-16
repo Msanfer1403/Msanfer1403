@@ -22,7 +22,7 @@
 
 🎯 My goal is to develop my skills in system administration and cybersecurity.
 
- <h3>`💻 Languages & Scripting`</h3>
+ ## `💻 Languages & Scripting`
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
-<h3>`🌐 Networking & Cybersecurity`</h3>
+## `🌐 Networking & Cybersecurity`
 
 <p>
   <img src="https://img.shields.io/badge/Networking-00AEEF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Docker_Networking-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Networking"/>
 </p>
 
-<h2>`🏆 CERTIFICATIONS`</h2>
+## `🏆 CERTIFICATIONS`
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
@@ -174,7 +174,7 @@ Programming exercises and projects developed while learning.
   />
 </p>
 
-## 📬 Contact Me
+## `📬 Contact Me`
 
 <p align="center">
   I'm open to opportunities, collaborations and new projects.
