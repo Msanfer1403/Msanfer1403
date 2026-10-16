@@ -87,13 +87,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.credly.com/users/maximo-sanchez-fernandez/badges/credly">
-    <img src="https://img.shields.io/badge/VIEW_ALL_BADGES-111111?style=for-the-badge&logo=credly&logoColor=00FF41" alt="View all badges" />
-  </a>
-</p>
-
-
 ## `whoami`
 
 💻 Student of **Administración de Sistemas Informáticos en Red (ASIR)**.
