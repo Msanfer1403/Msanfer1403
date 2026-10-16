@@ -171,8 +171,23 @@ Programming exercises and projects developed while learning.
     alt="Profile views"
   />
 </p>
----
+
+## 📬 Contact Me
 
 <p align="center">
-  <code>ACCESS GRANTED // KEEP LEARNING, KEEP BUILDING</code>
+  I'm open to opportunities, collaborations and new projects.
+  <br/>
+  Feel free to get in touch!
+</p>
+
+<p align="center">
+  <a href="mailto:maximo.sf.2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+34699544545">
+    <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Coming Soon"/>
+  </a>
 </p>
