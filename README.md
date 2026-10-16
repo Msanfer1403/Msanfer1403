@@ -12,7 +12,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=51CEFC&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
- <h3>💻 Languages & Scripting</h3>
+## `About me`
+
+💻 Student of **Administración de Sistemas Informáticos en Red (ASIR)**.
+
+🔐 Interested in cybersecurity, Linux administration, networking and automation.
+
+🛠️ I enjoy building projects, experimenting with systems and learning through hands-on practice.
+
+🎯 My goal is to develop my skills in system administration and cybersecurity.
+
+ <h3>`💻 Languages & Scripting`</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -25,7 +35,7 @@
   <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
 
-<h3>🐧 Systems & Tools</h3>
+<h3>`🐧 Systems & Tools`</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -43,7 +53,7 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
-<h3>🌐 Networking & Cybersecurity</h3>
+<h3>`🌐 Networking & Cybersecurity`</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Networking-00AEEF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
@@ -60,7 +70,7 @@
   <img src="https://img.shields.io/badge/Docker_Networking-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Networking"/>
 </p>
 
-<h2 align="center">🏆 CERTIFICATIONS</h2>
+<h2>`🏆 CERTIFICATIONS`</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
@@ -110,17 +120,9 @@
 </div>
 
 
-## `whoami`
 
-💻 Student of **Administración de Sistemas Informáticos en Red (ASIR)**.
 
-🔐 Interested in cybersecurity, Linux administration, networking and automation.
-
-🛠️ I enjoy building projects, experimenting with systems and learning through hands-on practice.
-
-🎯 My goal is to develop my skills in system administration and cybersecurity.
-
-## Featured Projects
+## `Featured Projects`
 
 ### 🤖 [My-Projects](https://github.com/Msanfer1403/My-Projects)
 Personal projects, automation tools and practical applications.
@@ -150,7 +152,7 @@ Programming exercises and projects developed while learning.
 
 > More projects and documentation coming soon.
 
-## `github_stats`
+## `⭐ Github Stats`
 
 <p align="center">
   <img
