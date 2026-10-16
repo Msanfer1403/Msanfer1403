@@ -12,14 +12,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=51CEFC&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
-<h3>💻 Languages & Scripting</h3>
+ <h3>💻 Languages & Scripting</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
 
 <h3>🐧 Systems & Tools</h3>
@@ -27,10 +30,17 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="SSH"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
 <h3>🌐 Networking & Cybersecurity</h3>
@@ -39,9 +49,16 @@
   <img src="https://img.shields.io/badge/Networking-00AEEF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/DNS-4B0082?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS"/>
+  <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DHCP"/>
+  <img src="https://img.shields.io/badge/VLAN-008080?style=for-the-badge&logo=cisco&logoColor=white" alt="VLAN"/>
+  <img src="https://img.shields.io/badge/VLSM-2E8B57?style=for-the-badge&logo=cisco&logoColor=white" alt="VLSM"/>
+  <img src="https://img.shields.io/badge/Firewall-DC143C?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall"/>
+  <img src="https://img.shields.io/badge/Docker_Networking-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Networking"/>
 </p>
-
 
 <h2 align="center">🏆 CERTIFICATIONS</h2>
 
