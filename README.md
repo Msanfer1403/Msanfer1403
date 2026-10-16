@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=0FF88&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Msanfer1403&color=00FF88&style=flat-square&label=PROFILE+VIEWS" alt="Profile visits"/>
 </p>
 
 ---
