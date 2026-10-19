@@ -1,14 +1,6 @@
 # Hi! 👋
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:050505,100:51CEFC&text=MSANFER1403&fontColor=51CEFC&fontSize=42&fontAlignY=50&animation=fadeIn"
-    width="100%"
-    alt="MSANFER1403 - Cybersecurity"
-  />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=51CEFC&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
@@ -119,9 +111,6 @@
 
 </div>
 
-
-
-
 ## `Featured Projects`
 
 ### 🤖 [My-Projects](https://github.com/Msanfer1403/My-Projects)
@@ -184,6 +173,6 @@ Programming exercises and projects developed while learning.
 
 <p align="center">
   <a href="mailto:maximo.sf.2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail_maximo.sf.2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
