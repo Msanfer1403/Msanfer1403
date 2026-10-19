@@ -116,6 +116,17 @@
       <br />
       <a href="https://www.credly.com/badges/918192bf-6ddf-4dbf-bd46-ca1523366617/public_url">Ver credencial ↗</a>
     </td>
+      <td align="center" width="25%">
+       <a href="https://www.credly.com/badges/6c005c67-b860-4c22-81b3-a9de13f095a3/public_url">
+        <img src="./assets/credly/getting-started-with-generative-ai.png" width="130" alt="AI Literacy" />
+      </a>
+      <br />
+      <strong>AI Literacy</strong>
+      <br />
+      <sub>Credencial verificada ✅</sub>
+      <br />
+      <a href="https://www.credly.com/badges/6c005c67-b860-4c22-81b3-a9de13f095a3/public_url">Ver credencial ↗</a>
+    </td>
   </tr>
 </table>
 
