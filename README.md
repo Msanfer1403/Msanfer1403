@@ -68,52 +68,51 @@
   <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
 </p>
 
-
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">
         <img src="./assets/credly/data-analytics.png" width="130" alt="Data Analytics Essentials" />
       </a>
       <br />
       <strong>Data Analytics Essentials</strong>
       <br />
-      <sub>Credencial verificada ✅​</sub>
+      <sub>Credencial verificada ✅</sub>
       <br />
       <a href="https://www.credly.com/badges/cc17a582-09b8-44a5-aa95-43bfc1656427/public_url">Ver credencial ↗</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">
         <img src="./assets/credly/networking-basics.png" width="130" alt="Networking Basics" />
       </a>
       <br />
       <strong>Networking Basics</strong>
       <br />
-      <sub>Credencial verificada ✅​</sub>
+      <sub>Credencial verificada ✅</sub>
       <br />
       <a href="https://www.credly.com/badges/a5a549f8-a3f4-44f7-8c85-fc9c52b24f0f/public_url">Ver credencial ↗</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">
         <img src="./assets/credly/network-support-security.png" width="130" alt="Network Support and Security" />
       </a>
       <br />
       <strong>Network Support and Security</strong>
       <br />
-      <sub>Credencial verificada ✅​</sub>
+      <sub>Credencial verificada ✅</sub>
       <br />
       <a href="https://www.credly.com/badges/a5c5301a-b625-4112-a088-adeee7b9d22c/public_url">Ver credencial ↗</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/918192bf-6ddf-4dbf-bd46-ca1523366617/public_url">
         <img src="./assets/credly/getting-started-with-generative-ai.png" width="130" alt="Getting Started with Generative AI" />
       </a>
       <br />
       <strong>Getting Started with Generative AI</strong>
       <br />
-      <sub>Credencial verificada ✅​</sub>
+      <sub>Credencial verificada ✅</sub>
       <br />
       <a href="https://www.credly.com/badges/918192bf-6ddf-4dbf-bd46-ca1523366617/public_url">Ver credencial ↗</a>
     </td>
