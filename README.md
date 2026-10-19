@@ -200,11 +200,11 @@ Programming exercises and projects developed while learning.
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Msanfer1403/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/maximo-sf/count.svg" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMsanfer1403&count_bg=%2354C1F7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaximo-sf&count_bg=%2354C1F7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile Views" />
 </p>
 
 ## `📬 Contact Me`
