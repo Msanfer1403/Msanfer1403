@@ -173,6 +173,6 @@ Programming exercises and projects developed while learning.
 
 <p align="center">
   <a href="mailto:maximo.sf.2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail_maximo.sf.2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-maximo.sf.2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
