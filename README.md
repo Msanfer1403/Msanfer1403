@@ -132,7 +132,17 @@
       <a href="https://www.credly.com/badges/6c005c67-b860-4c22-81b3-a9de13f095a3/public_url">Ver credencial ↗</a>
     </td>
     <!-- Celdas vacías para mantener proporciones uniformes -->
-    <td align="center" width="25%"></td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/01f6008f-324a-437a-a49e-6e525e77c78e/public_url">
+        <img src="./assets/credly/artificial-intelligence-fundamentals.png" width="130" alt="Artificial Intelligence Fundamentals" />
+      </a>
+      <br />
+      <strong>Artificial Intelligence Fundamentals</strong>
+      <br />
+      <sub>Credencial verificada ✅</sub>
+      <br />
+      <a href="https://www.credly.com/badges/01f6008f-324a-437a-a49e-6e525e77c78e/public_url">Ver credencial ↗</a>
+    </td>
     <td align="center" width="25%"></td>
     <td align="center" width="25%"></td>
   </tr>
