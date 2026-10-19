@@ -196,7 +196,7 @@ Programming exercises and projects developed while learning.
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maximo-sf.maximo-sf&color=54C1F7" alt="Profile views" />
+  <img src="https://Visitor-badge.laobi.icu/badge?page_id=maximo-sf.maximo-sf&color=54C1F7" alt="Profile views" />
 </p>
 
 ## `📬 Contact Me`
