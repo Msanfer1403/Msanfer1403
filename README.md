@@ -119,6 +119,7 @@
     </td>
   </tr>
 <!-- SEGUNDA FILA (QUINTO CERTIFICADO) -->
+  
   <tr>
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/6c005c67-b860-4c22-81b3-a9de13f095a3/public_url">
@@ -143,7 +144,17 @@
       <br />
       <a href="https://www.credly.com/badges/01f6008f-324a-437a-a49e-6e525e77c78e/public_url">Ver credencial ↗</a>
     </td>
-    <td align="center" width="25%"></td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/657b1a5b-07af-4c25-95aa-1e51be7ad1b5/public_url">
+        <img src="./assets/credly/data-fundamentals.png" width="130" alt="Data Fundamentals" />
+      </a>
+      <br />
+      <strong>Data Fundamentals</strong>
+      <br />
+      <sub>Credencial verificada ✅</sub>
+      <br />
+      <a href="https://www.credly.com/badges/657b1a5b-07af-4c25-95aa-1e51be7ad1b5/public_url">Ver credencial ↗</a>
+    </td>
     <td align="center" width="25%"></td>
   </tr>
 </table>
